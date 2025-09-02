@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pcatalogextra</name>
+    <displayName><![CDATA[Cat&aacute;logo Extra (columna adicional)]]></displayName>
+    <version><![CDATA[1.1.1]]></version>
+    <description><![CDATA[A&ntilde;ade una columna extra en Cat&aacute;logo &gt; Productos (1.7.5.1).]]></description>
+    <author><![CDATA[Pol Puig]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
