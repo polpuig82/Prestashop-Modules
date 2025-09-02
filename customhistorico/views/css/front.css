@@ -1,0 +1,845 @@
+.entregaenCurso {
+    background: white;
+    color: #232323;
+    margin-bottom: 20px;
+    padding: 1rem;
+}
+.intlinea{
+    font-style: italic;
+    padding-left: 20px;
+}
+.btn-terciary{
+ color: #b5b5b5 !important;
+}
+
+
+@media screen and (min-width: 800px) and (max-width: 2000px) {
+.style-historico-margins{
+    padding:50px;
+}
+}
+@media screen and (min-width: 200px) and (max-width: 800px) {
+    .style-historico-margins{
+        padding:0px;
+        /* padding-right: 50px; */
+    }
+ }
+
+.color-entrega-etc{
+    color: #BF5A4E;
+    font-family: "roboto";
+    font-size: 18px;
+    line-height: 25.2px;
+    letter-spacing: 0.5px;
+}
+.button-factura{
+    background:transparent !important;
+    color: #177343;
+    border: solid 1px transparent !important;
+    font-weight: bold;
+}
+.color2-entrega-etc{
+    color: #290000;
+    font-family: "roboto";
+    font-size: 16px;
+    line-height: 22.4px;
+    letter-spacing: 0.44px;
+}
+.entregaDiv{
+    color: #290000 !important;
+    font-family: "roboto" !important;
+    font-size: 16px !important;
+    line-height: 22.4px !important;
+    letter-spacing: 0.44px !important;
+}
+.totalPrecio{
+    text-align: right !important;
+}
+.lineaproduct{
+    /* font-weight: 400 !important; */
+    font-weight: bold;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    font-family: "Lora";
+    color: #2F4E3E;
+}
+
+.boxItemEditor.simple {
+    padding-bottom: 10px;
+}
+.carrutitle{
+ font-weight: 800;
+ text-align: center;
+ padding-top: 20px;
+ text-transform: uppercase;
+ font-size: 16px;
+ color: #11a110;
+}
+.carrusubtitle{
+    text-align: center;
+    font-size: 14px;
+    color:grey;
+   }
+.carrucontent {
+    padding: 1em;
+}
+.carruselfondo{
+    background: #f3f1f1;
+}
+
+div #mycarousel {
+    background: #f3f1f1;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.contentcesta{
+    padding-left: 20px;
+    padding-right: 20px;
+    display:none;
+}
+.headerEntregaenCurso{
+    color: rgba(23,115,67,0.5);
+   border-bottom: 2px solid rgba(23,115,67,0.5);
+    font-weight: 600;
+    padding-bottom: 5px;
+    font-size: 1em;
+}
+.imgCesta{
+    float: left;
+}
+.boxItemEditor{
+    width: 100%;
+    padding: 10px;
+    background: #f3f1f1;
+    margin-bottom: 10px;
+}
+
+.listado{
+    background: white !important;
+    font-style: italic;
+}
+
+.definido {
+    float: right;
+}
+
+.addressEntregaenCurso{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.modifyEntregaenCurso{
+    float: right;
+    color: #c6c2c2;
+    font-style: italic;
+}
+
+.headaddressEntrega{
+    color: #000000;
+}
+
+.bodyaddressEntrega{
+    color: #939393;
+}
+
+.alertEntrega{
+    background: #f9e1e1;
+    border: solid 1px #ba0000;
+    margin-top: 10px;
+    padding: 5px;
+    font-size: small;
+    color: #ba0000;
+    border-radius: 5px;
+}
+
+.totalEntregaenCurso{
+    font-weight: 700;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.orderEntregaenCurso{
+    
+    color: #000000;
+}
+
+.text-primary{
+    padding: 20px;
+}
+
+.customentregasencurso-footer-links{
+    padding: 20px;
+}
+
+
+
+
+
+/* Anterior */
+
+h2 {
+    color: #000;
+    font-size: 26px;
+    font-weight: 300;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative;
+    margin: 10px 0px;
+}
+h2::after {
+    content: "";
+    width: 100px;
+    position: absolute;
+    margin: 0 auto;
+    height: 4px;
+    border-radius: 1px;
+    /* background: #7ac400; */
+    left: 0;
+    right: 0;
+    bottom: -20px;
+}
+.carousel {
+    margin: 0px;
+    padding: 0px;
+}
+.carousel .item {
+    color: #747d89;
+    /* min-height: 325px; */
+    text-align: center;
+    overflow: hidden;
+}
+
+.boxItemEditor .editableItemFrame{
+    font-weight: 200;
+}
+
+.boxItemEditor .editableItemFrame > div.image {
+    /* Si error al aplicar regla, buscar el id por regex (precognis*) */
+    border: unset;
+    width: 50px !important;
+    height: 50px !important;
+    filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.4));
+    margin: 0px 10px 0px 0px !important;
+
+}
+.boxItemEditor .editableItemFrame > div.image > img {
+    /* Si error al aplicar regla, buscar el id por regex (precognis*) */
+    width: 40px;
+    height: 40px;
+    max-width: unset;
+    max-height: unset;
+    clip-path: circle(50% at 50% 50%);
+}
+
+.imageprin{
+    width: 40px;
+    height: 40px;
+    max-width: unset;
+    max-height: unset;
+    clip-path: circle(50% at 50% 50%);
+    border: unset;
+    width: 50px !important;
+    height: 50px !important;
+    filter: drop-shadow(0px 0px 1px rgba(0, 0, 0, 0.4));
+    margin: 0px 10px 0px 0px !important;
+}
+
+.titulCesta{
+    padding-top: 9px;
+    padding-bottom: 10px;
+}
+
+.boxItemEditor a.btn.btn-primary {
+    border-radius: 10px;
+    background-color: unset !important;
+    color: #7ac400;
+    padding: 0px 10px 0px 0px !important;
+}
+
+
+.boxItemEditor i{
+    margin: 0px !important;
+}
+.carousel .thumb-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 25px 15px; */
+    /* background: #fff; */
+    /* border-radius: 6px; */
+    text-align: center;
+    position: relative;
+    /* box-shadow: 0 2px 3px rgba(0,0,0,0.2); */
+}
+.carousel .item .img-box {
+    height: 120px;
+    margin-bottom: 20px;
+    width: 100%;
+    position: relative;
+}
+
+.carousel-element img{
+    /* .carousel .item img { */
+    /* max-width: 100%;
+    max-height: 100%;
+    display: inline-block;
+    position: absolute;
+    bottom: 0;
+    margin: 0 auto;
+    left: 0;
+    right: 0; */
+    height: 50px !important;
+    width: 50px !important;
+    clip-path: circle(50% at 50% 50%);
+}
+
+.carousel-item-next{
+    height: unset !important;
+    min-height: unset !important;
+}
+.carousel-item-prev{
+    height: unset !important;
+    min-height: unset !important;
+}
+
+
+/*
+.carousel .item h4 {
+    font-size: 18px;
+    font-weight: 200;
+}
+.carousel .item h4, .carousel .item p, .carousel .item ul {
+    margin-bottom: 5px;
+    font-weight: 200;
+    font-size: .9375rem;
+}
+.carousel .btn {
+    color: #7ac400;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: none;
+    border: 1px solid #7ac400;
+    padding: 6px 14px;
+    margin-top: 5px;
+    line-height: 16px;
+    border-radius: 20px;
+}
+.carousel .btn:hover, .carousel .btn:focus {
+    color: #fff;
+    background: #7ac400;
+    box-shadow: none;
+}
+.carousel .btn i {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.carousel .item-price {
+    font-size: 13px;
+    padding: 2px 0;
+}
+.carousel .item-price strike {
+    opacity: 0.7;
+    margin-right: 5px;
+} */
+
+
+.carousel-control-prev, .carousel-control-next {
+    height: 44px;
+    width: 40px;
+    background: #7ac400;
+    margin: auto 0;
+    border-radius: 4px;
+    opacity: 0.8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.carousel-control-prev:hover, .carousel-control-next:hover {
+    background: #78bf00;
+    opacity: 1;
+}
+.carousel-control-prev i, .carousel-control-next i {
+    font-size: 36px;
+    /* position: absolute; */
+    /* top: 50%; */
+    /* display: inline-block; */
+    /* margin: -19px 0 0 0; */
+    z-index: 5;
+    /* left: 0; */
+    /* right: 0; */
+    color: #fff;
+    text-shadow: none;
+    /* font-weight: bold; */
+}
+.carousel-control-prev i {
+    margin-left: -2px;
+}
+.carousel-control-next i {
+    margin-right: -4px;
+}
+.carousel-indicators {
+    bottom: -40px;
+}
+.carousel-indicators li, .carousel-indicators li.active {
+    width: 10px;
+    height: 10px;
+    margin: 4px;
+    border-radius: 50%;
+    border: none;
+}
+.carousel-indicators li {
+    background: rgba(0, 0, 0, 0.2);
+}
+.carousel-indicators li.active {
+    background: rgba(0, 0, 0, 0.6);
+}
+.carousel .wish-icon {
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    z-index: 99;
+    cursor: pointer;
+    font-size: 16px;
+    color: #abb0b8;
+}
+.carousel .wish-icon .fa-heart {
+    color: #ff6161;
+}
+.star-rating li {
+    padding: 0;
+}
+.star-rating i {
+    font-size: 14px;
+    color: #ffc000;
+}
+
+
+
+/* Personalizacion de la vista modal */
+[id^="mycarousel"] .modal-dialog {
+    max-width: 900px;
+}
+
+[id^="mycarousel"] img {
+    max-width: 80px !important;
+    max-height: 80px !important;
+    clip-path: circle(50% at 50% 50%);
+    /* filter: drop-shadow(-11px 60px 30px rgba(50, 50, 0, 0.5)); */
+}
+
+[id^="mycarousel"] .img-box {
+    filter: drop-shadow(-1px 6px 3px rgba(50, 50, 0, 0.5));
+}
+
+[id^="mycarousel"] [id^="mycarousel"] {
+    margin: 0px;
+    width: 100% !important;
+    background-color: red;
+    background-color: unset;
+    max-width: unset;
+    position: unset;
+    padding: 0;
+}
+
+
+[id^="mycarousel"] .item.carousel-item.active {
+    /* background-color: blue; */
+    /*  */
+
+    /* margin: 0 40px; */
+
+    /*  */
+    min-height: unset;
+    height: fit-content;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+[id^="mycarousel"] .carousel-inner {
+    height: fit-content !important;
+}
+
+[id^="mycarousel"] .row {
+}
+
+[id^="mycarousel"] .item.carousel-item .col-sm-3 {
+    /* height: max-content; */
+    padding: 0px;
+}
+
+[id^="mycarousel"] .thumb-wrapper {
+    height: 100%;
+
+    padding: 5px;
+}
+
+
+[id^="mycarousel"] .thumb-wrapper h4 {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+[id^="mycarousel"] ol.carousel-indicators{
+    display: flex;
+    justify-content: center;
+}
+
+[id^="mycarousel"] a[class^="carousel-control-"]{
+    position: absolute;
+    top:0;
+    bottom: 0;
+}
+
+[id^="mycarousel"] a.carousel-control-next{
+    right: 0;
+
+}
+
+[id^="mycarousel"] .row {
+    margin: 0px;
+}
+
+
+.displayCestaPersonalizada > div.boxItemEditor {
+    padding: 8px 0px;
+}
+
+
+
+
+/* mini carrousel */
+/* --------------------------------------------- */
+
+#main-mini-carrousel-box{
+    width: 100%;
+    margin: 0px;
+}
+
+
+.carousel-element{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* width: calc(100% / 6); */
+    /* width: calc( (100% -80px )/ 6); */
+    justify-content: space-between;
+
+    /*  */
+    height: 155px;
+    /*  */
+}
+
+
+.carousel-element a.btn.btn-primary {
+    padding: 5px 10px !important;
+    border-radius: 30px;
+}
+
+.carousel-element h4{
+    font-size: .9375rem;
+    color: #232323;
+    font-weight: 200;
+    text-align: center;
+}
+
+.carousel-list{
+    display: flex;
+    /* gap: 15px; */
+    margin: 0px;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+[id^="mycarousel"]{
+    display: block;
+}
+
+[id^="mycarousel"].active{
+    display: block !important;
+    /* margin-bottom: 40px; */
+}
+
+[id^="mycarousel"] .custom-carousel-indicators{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+[id^="mycarousel"] .custom-carousel-indicators li, .custom-carousel-indicators li.active {
+    width: 10px;
+    height: 10px;
+    margin: 4px;
+    border-radius: 50%;
+    border: none;
+}
+[id^="mycarousel"] .custom-carousel-indicators li {
+    background: rgba(0, 0, 0, 0.2);
+}
+[id^="mycarousel"] .custom-carousel-indicators li.active {
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.carousel {
+    left: unset !important;
+    width: unset !important;
+}
+
+
+
+/* Arreglos post-responsive */
+
+.boxItemEditor .editableItemFrame {
+    padding-bottom: 15px;
+}
+
+
+.boxItemEditor .editableItemFrame:last-child {
+    padding: 0px;
+}
+
+
+.carousel-element h4 {
+    font-weight: 100 !important;
+    font-family: 'Manrope';
+    font-size: 10pt;
+    margin: 0px;
+}
+
+.owl-stage-outer{
+    height: fit-content ;
+}
+
+
+.owl-item{
+    height: fit-content;
+}
+
+
+
+
+.carousel-element .item h4 {
+    font-size: 18px;
+    font-weight: 200;
+}
+.carousel-element .item h4, .carousel-element .item p, .carousel-element .item ul {
+    margin-bottom: 5px;
+    font-weight: 200;
+    font-size: .9375rem;
+}
+.carousel-element .btn {
+    color: #7ac400;
+    font-size: 11px;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: none;
+    border: 1px solid #7ac400;
+    padding: 6px 14px;
+    margin-top: 5px;
+    line-height: 16px;
+    border-radius: 20px;
+}
+.carousel-element .btn:hover, .carousel-element .btn:focus {
+    color: #fff;
+    background: #7ac400;
+    box-shadow: none;
+}
+.carousel-element .btn i {
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+.carousel-element .item-price {
+    font-size: 13px;
+    padding: 2px 0;
+}
+.carousel-element .item-price strike {
+    opacity: 0.7;
+    margin-right: 5px;
+}
+
+
+
+.carousel-element a.btn.btn-primary {
+    background-color: #7ac400 !important;
+    color: #fff;
+    border-width: 0px;
+}
+
+
+/* Arreglo de flechas */
+
+.owl-nav button.owl-prev {
+    transform: unset !important;
+}
+
+.owl-nav button{
+    top: -30px;
+}
+
+.owl-carousel {
+    /* width: calc( 100% - 80px); */
+    width: auto;
+}
+
+div#mycarousel1 {
+    justify-content: center;
+}
+
+.owl-nav button.owl-prev {
+    left: -40px;
+}
+
+.owl-nav button.owl-next {
+    right: -40px;
+}
+
+
+/*
+.owl-stage {
+    height: 100%;
+}
+
+
+.owl-item .item {
+    height: 100% !important;
+}
+
+
+
+.carousel-element {
+    height: 100% !important;
+}
+
+.owl-stage {
+    height: fit-content !important;
+} */
+
+
+/* Arreglo fallo width escalable */
+[id^="main-mini-carrousel-box"]{
+    display: block !important;
+}
+
+
+/* Spinner */
+
+.atc_spinner {
+    -webkit-animation-name: spin;
+    -webkit-animation-duration: 4000ms;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: linear;
+    -moz-animation-name: spin;
+    -moz-animation-duration: 4000ms;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: linear;
+    -ms-animation-name: spin;
+    -ms-animation-duration: 4000ms;
+    -ms-animation-iteration-count: infinite;
+    -ms-animation-timing-function: linear;
+
+    animation-name: spin;
+    animation-duration: 4000ms;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+@-ms-keyframes spin {
+    from { -ms-transform: rotate(0deg); }
+    to { -ms-transform: rotate(360deg); }
+}
+@-moz-keyframes spin {
+    from { -moz-transform: rotate(0deg); }
+    to { -moz-transform: rotate(360deg); }
+}
+@-webkit-keyframes spin {
+    from { -webkit-transform: rotate(0deg); }
+    to { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+    from {
+        transform:rotate(0deg);
+    }
+    to {
+        transform:rotate(360deg);
+    }
+}
+.atc_qty {
+    display: inline-block;
+    width: 60px;
+    border: 1px solid #cecece;
+    background: #FFF;
+    padding: 10px 0px;
+    text-align: center;
+    top: 2px;
+    margin: auto;
+    position: relative;
+    margin: 0px 5px 0px 0px;
+}
+
+[id^="contentcesta"].active{
+    display: block !important;
+    /* margin-bottom: 40px; */
+}
+
+
+/* ------------------------- */
+/* Arreglo de 'customentregaencurso' */
+.orderEntregaenCurso .pedidolinea {display: flex;
+    flex-direction: row;
+    align-items: center;justify-content: space-between;}
+
+.orderEntregaenCurso  p.lineaproduct {padding: 0;margin: 0;}
+ 
+.orderEntregaenCurso  p.lineaproduct {width: 100%;}
+
+
+
+
+.orderEntregaenCurso .lineaTitulCesta {display: flex;justify-content: space-between; align-items: center; height: fit-content;}
+
+.orderEntregaenCurso .lineaTitulCesta img {clip-path: circle(50% at 50% 50%);
+    width: 40px;}
+
+.orderEntregaenCurso p.titulCesta {width: 100%;
+    margin: 0;
+    padding: 0;
+    margin-left: 10px;
+}
+
+
+
+
+/* Arreglos estéticos */
+
+.buttonContainerFactura{
+    display: flex;
+    justify-content: center;
+}
+ 
+
+
+
+
+/* Arreglos estéticos */
+/*div.listado-productos1 :nth-child(even) {
+    background: ;
+}*/
+
+div.listado-productos1{
+    /*background:#f3f1f142;*/
+
+}
+
+div.listado-productos1 .lineaproduct {
+    margin-left: 20px;
+    font-size: 10pt;
+}
+
+
+.totalEntregaenCurso{
+    margin-left: 20px;
+    padding: 10px 0;
+}
+
