@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{customsuscripciones}prestashop>suscripcioneslist_b983ccb93c3e1b804cd6698917bbf060'] = 'Subscripcions';
+$_MODULE['<{customsuscripciones}prestashop>suscripcioneslist_28c65bdf18a757eaa2d02d9c30401a72'] = 'No n\'hi han resultats per la teva cerca';
+$_MODULE['<{customsuscripciones}prestashop>contenidosimple_4b79d83e2f1bba06e3ef82c820e8e11b'] = 'Quantitat: ';
+$_MODULE['<{customsuscripciones}prestashop>mini-carrouseladdpedido_b5eee222cfddc01a8814f89e605691ca'] = 'AFEGIR';
+$_MODULE['<{customsuscripciones}prestashop>displaycustomeraccount_b983ccb93c3e1b804cd6698917bbf060'] = 'Subscripcions';
+$_MODULE['<{customsuscripciones}prestashop>displaycustomeraccount_1249780bc34aa04703763496ce9b6942'] = 'Subscripcions';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_b983ccb93c3e1b804cd6698917bbf060'] = 'Subscripcions';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_4a29c00d928cbb234a1424e32336523a'] = 'Vols afegir productes a la teva subscripció?';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_15d4d58fdd1d49935e37eb08d813cd3d'] = 'Només has de clicar el botó Afegir productes que apareix al marge superior dret de la teva subscripció. Més fàcil… impossible!';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_120cf75e292994a208f065dcae443562'] = 'Vols cancel·lar el teu proper lliurament?';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_6ac86b5b35a45704424041645d39eaf2'] = 'Pots cancel·lar-la prement el botó que apareix just al costat de la data prevista de lliurament. La teva propera cistella es programarà per al següent lliurament previst dins del teu pla de subscripció.';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_c7175de6b3e19c988c688ae6546952a8'] = 'T\'agradaria afegir productes al teu proper lliurament?';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_7199f76001f662f3170d848ba3e888a5'] = 'Fes-ho des de la pàgina de';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_a5a3d65ce929628c52c426b05e77d25b'] = 'i els inclourem a la teva propera comanda.';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_f0b5e6630cf5f3bab90822d814d7be6f'] = 'Vols modificar o cancel·lar la teva subscripció?';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_8e22ed2c2d40d53c016278cd9d2575b8'] = 'La cancel·lació de la comanda o la subscripció s\'haurà de notificar amb un mínim de 72 hores laborables d\'antelació enviant un correu a hola@disfrutaverdura.com. En cas contrari, s\'aplica un càrrec de 10€ en concepte de transport i manipulació.';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_0f0bec31ba163b15cd6d02beb0dd8355'] = 'Lliurament Previst';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_24ea3fcbad735ef3a81e275c28ec6923'] = 'Activa';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_e2249ed9f45123b131ac477fd102c4f8'] = 'Desactivada';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_3587646f77887256bd35de3de85a1ca3'] = 'Texto XXXX para FO	';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_bae936a558dafddc6b45d54975b89317'] = 'Afegir Productes';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_2c9ee12b1ecda9d93c7eb01fed772019'] = 'Recorda que només estàs cancel.lant/activant el teu proper lliurament';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_9a5fa813fd11d379fe0f8f2179382251'] = 'Adreça Lliurament:';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_0709f015fb56cdf764375eadd037a9bd'] = 'Contingut:';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_c9cc8cce247e49bae79f15173ce97354'] = 'Desa';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_652294d9895fb642dfbff746069cd41b'] = 'El lliurament amb data';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_73245d1787df9a3433833040059e0cda'] = 'ha estat cancel·lada.';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_75d92fb01243431338a7937d49a79df6'] = 'Vols fer un d\'aquests canvis a la teva subscripció?';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_dc75dc7f3cea1e7f35248ba4b45cbd35'] = 'Pausar subscripció';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_b4dbaecb2bc30366e79bbb574c1a1161'] = 'Canviar freqüència';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_892311314294e29b0f18842a58fb2db8'] = 'Canviar adreça de la subscripció';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_da5a50d1a215c60d90b7db7ed841bd32'] = 'Canviar/afegir o cancel·lar un producte subscrit';
+$_MODULE['<{customsuscripciones}prestashop>suscripciones_cc806b29d261e199480d3d6d61b8c926'] = 'Posa\'t en contacte';
