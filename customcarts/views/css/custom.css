@@ -1,0 +1,5 @@
+.exmpArea .owl-carousel .item{ height: 10rem; background: #4DC7A0; padding: 1rem; text-align: center; color: #FFF; line-height: 10rem;}
+.exmpArea .owl-carousel .item h4{ line-height: 8rem;}
+.exmpArea .owl-carousel .item h2{ line-height: 8rem; margin: 0; padding: 0;}
+
+.exmpArea .owl-carousel .center .item{ background: orange;}

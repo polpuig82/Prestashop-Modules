@@ -1,0 +1,30 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{customcarts}prestashop>customcarts_b87b4e4d0b85eae7eee2425b04bcea9e'] = 'Carrito de compra personalizado D&V	';
+$_MODULE['<{customcarts}prestashop>customcarts_affce0794ec2d63f74e8560e5deb85d2'] = 'Modulo de Carrito de compra personalizado D&V	';
+$_MODULE['<{customcarts}prestashop>customcarts_876f23178c29dc2552c0b48bf23cd9bd'] = '¿Está seguro que desea continuar con la desinstalación?';
+$_MODULE['<{customcarts}prestashop>customcarts_19c389ee6618d4b0cf64b216b2b6fe23'] = 'Actualización realizada con éxito';
+$_MODULE['<{customcarts}prestashop>customcarts_f4f70727dc34561dfde1a3c529b6205c'] = 'Configuración';
+$_MODULE['<{customcarts}prestashop>customcarts_23df1564c951f10e35de1e150db92461'] = 'Límite de cambios en el carrito';
+$_MODULE['<{customcarts}prestashop>customcarts_85fe724f850077edb4356e021e175338'] = 'Controles de parámetros del carrito personalizado';
+$_MODULE['<{customcarts}prestashop>customcarts_ea4788705e6873b424c65e91c2846b19'] = 'Cancelar';
+$_MODULE['<{customcarts}prestashop>customcarts_c9cc8cce247e49bae79f15173ce97354'] = 'Guardar';
+$_MODULE['<{customcarts}prestashop>customcarts_f4900da2ac34ac330fc14bb39d9fceb9'] = 'd.';
+$_MODULE['<{customcarts}prestashop>customcarts_945c6a504500ef8923cf91c8e587e890'] = 'Comisión de Paypal';
+$_MODULE['<{customcarts}prestashop>product_148f2cc975c72c12b88a97c781f6fbd5'] = 'Contenido de la cesta';
+$_MODULE['<{customcarts}prestashop>product_f0c1e8388d5b9550aebec85604535048'] = 'Selecciona el artículo de cambio';
+$_MODULE['<{customcarts}prestashop>carrousel_f5b86b7cb07ea791dfa78565b36bd906'] = 'Selecciona el artículo que quieres para cambiar en la cesta';
+$_MODULE['<{customcarts}prestashop>carrousel_e0626222614bdee31951d84c64e5e9ff'] = 'Seleccionar';
+$_MODULE['<{customcarts}prestashop>product_line_148f2cc975c72c12b88a97c781f6fbd5'] = 'Contenido de la cesta';
+$_MODULE['<{customcarts}prestashop>productmyaccount_148f2cc975c72c12b88a97c781f6fbd5'] = 'Contenido de la cesta';
+$_MODULE['<{customcarts}prestashop>productmyaccount_033b352a84809756fa2644fcee9d0267'] = 'Enviar Modificar';
+$_MODULE['<{customcarts}prestashop>productmyaccount_f0c1e8388d5b9550aebec85604535048'] = 'Selecciona artículo a cambiar';
+$_MODULE['<{customcarts}prestashop>carrouselmyaccount_f5b86b7cb07ea791dfa78565b36bd906'] = 'Seleccione el artículo que desea cambiar en la cesta';
+$_MODULE['<{customcarts}prestashop>carrouselmyaccount_e0626222614bdee31951d84c64e5e9ff'] = 'Seleccionar';
+$_MODULE['<{customcarts}prestashop>mini-product_148f2cc975c72c12b88a97c781f6fbd5'] = 'Contenido de la cesta';
+$_MODULE['<{customcarts}prestashop>mini-product_0d9175fe89fb80d815e7d03698b6e83a'] = 'Regalo!';
+$_MODULE['<{customcarts}prestashop>mini-carrousel_bu_e0626222614bdee31951d84c64e5e9ff'] = 'Seleccionar';
+$_MODULE['<{customcarts}prestashop>mini-carrousel_ismobile_e0626222614bdee31951d84c64e5e9ff'] = 'Seleccionar';
+$_MODULE['<{customcarts}prestashop>mini-carrousel_e0626222614bdee31951d84c64e5e9ff'] = 'Seleccionar';
